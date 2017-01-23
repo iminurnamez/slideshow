@@ -6,6 +6,10 @@ Place directories of images into the images directory.
 
 Up/Down - adjust viewing time for each image
 
+F - toggle fade
+
+F1 - toggle fullscreen
+
 ESC - exit
 
 
